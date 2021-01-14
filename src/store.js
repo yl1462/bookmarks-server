@@ -1,6 +1,6 @@
 const { v4: uuidv4 } = require('uuid');
 
-const bookMarks = [
+const bookmarks = [
   { id: uuidv4(),
     title: 'Google',
     url: 'https://www.google.com',
@@ -32,4 +32,4 @@ const bookMarks = [
     rating: 1 }
 ]
 
-module.exports = { bookMarks }
+module.exports = { bookmarks }

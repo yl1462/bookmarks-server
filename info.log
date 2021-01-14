@@ -1,0 +1,16 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/d701d3d6-40bf-4c2b-8947-f370e6e6e289","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/d701d3d6-40bf-4c2b-8947-f370e6e6e289","level":"error"}
+{"message":"Bookmark with id d701d3d6-40bf-4c2b-8947-f370e6e6e289 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id dc1778a5-7903-4d88-a870-2d2712112438 created","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
